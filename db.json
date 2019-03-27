@@ -4,35 +4,35 @@
       "id": 1,
       "firstname": "Susane",
       "lastname": "Doe",
-      "e-mail": "susane@doe.com",
+      "eMail": "susane@doe.com",
       "telephone": "015673948260"
     },
     {
       "id": 2,
       "firstname": "John",
       "lastname": "Doe",
-      "e-mail": "john@doe.com",
+      "eMail": "john@doe.com",
       "telephone": "08763254901"
     },
     {
       "id": 3,
       "firstname": "Steven",
       "lastname": "Miller",
-      "e-mail": "miller@mi.im",
+      "eMail": "miller@mi.im",
       "telephone": "0808080506"
     },
     {
       "id": 4,
       "firstname": "Manuel",
       "lastname": "Manel",
-      "e-mail": "manu@manel.an",
+      "eMail": "manu@manel.an",
       "telephone": "0808080506"
     },
     {
       "id": 5,
       "firstname": "Lisa",
       "lastname": "Smith",
-      "e-mail": "l.smith@smith.com",
+      "eMail": "l.smith@smith.com",
       "telephone": "-"
     }
   ]
