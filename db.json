@@ -5,50 +5,35 @@
       "firstname": "Susane",
       "lastname": "Doe",
       "e-mail": "susane@doe.com",
-      "telephone": "015673948260",
-      "picture": "https://randomuser.me/api/portraits/med/women/1.jpg",
-      "dob": "1951-12-06T08:12:23Z",
-      "city": "London"
+      "telephone": "015673948260"
     },
     {
       "id": 2,
       "firstname": "John",
       "lastname": "Doe",
       "e-mail": "john@doe.com",
-      "telephone": "08763254901",
-      "picture": "https://randomuser.me/api/portraits/med/men/1.jpg",
-      "dob": "1956-10-03T08:12:23Z",
-      "city": "London"
+      "telephone": "08763254901"
     },
     {
       "id": 3,
       "firstname": "Steven",
       "lastname": "Miller",
       "e-mail": "miller@mi.im",
-      "telephone": "0808080506",
-      "picture": "https://randomuser.me/api/portraits/med/men/2.jpg",
-      "dob": "1962-01-01T08:12:23Z",
-      "city": "Munich"
+      "telephone": "0808080506"
     },
     {
       "id": 4,
       "firstname": "Manuel",
       "lastname": "Manel",
       "e-mail": "manu@manel.an",
-      "telephone": "0808080506",
-      "picture": "https://randomuser.me/api/portraits/med/men/3.jpg",
-      "dob": "1974-07-09T08:12:23Z",
-      "city": "Berlin"
+      "telephone": "0808080506"
     },
     {
       "id": 5,
       "firstname": "Lisa",
       "lastname": "Smith",
       "e-mail": "l.smith@smith.com",
-      "telephone": "-",
-      "picture": "https://randomuser.me/api/portraits/med/women/9.jpg",
-      "dob": "1986-04-06T08:12:23Z",
-      "city": "New York"
+      "telephone": "-"
     }
   ]
 }
