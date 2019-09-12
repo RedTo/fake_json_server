@@ -1,39 +1,24 @@
 {
-  "contacts": [
+  "people": [
     {
-      "id": 1,
-      "firstname": "Susane",
-      "lastname": "Doe",
-      "eMail": "susane@doe.com",
-      "telephone": "015673948260"
+      "imei": "35693806543809",
+      "phone": "+01153489654",
+      "strength": "4.7"
+    },    
+    {
+      "imei": "35693897843806",
+      "phone": "+0123456612",
+      "strength": "4.7"
     },
     {
-      "id": 2,
-      "firstname": "John",
-      "lastname": "Doe",
-      "eMail": "john@doe.com",
-      "telephone": "08763254901"
+      "imei": "3569367843234",
+      "phone": "+01153756812",
+      "strength": "4.7"
     },
     {
-      "id": 3,
-      "firstname": "Steven",
-      "lastname": "Miller",
-      "eMail": "miller@mi.im",
-      "telephone": "0808080506"
+      "imei": "35693343811",
+      "phone": "+011260854627",
+      "strength": "4.7"
     },
-    {
-      "id": 4,
-      "firstname": "Manuel",
-      "lastname": "Manel",
-      "eMail": "manu@manel.an",
-      "telephone": "0808080506"
-    },
-    {
-      "id": 5,
-      "firstname": "Lisa",
-      "lastname": "Smith",
-      "eMail": "l.smith@smith.com",
-      "telephone": "-"
-    }
   ]
 }
